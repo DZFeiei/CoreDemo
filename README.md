@@ -1,0 +1,2 @@
+# CoreDemo
+Study .Net Core
